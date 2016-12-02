@@ -5,7 +5,7 @@ Application written in PHP
 Using Composer for Dependency Management
 and the Silex MicroFramework
 
-Run:
+Run:\n
     composer install
 
 Start you local server.
